@@ -3,6 +3,7 @@
 A list of useful & intresting links.
 
 * [Webgems](https://webgems.io/)
+* [DevDocs](https://devdocs.io/)
 
 ## Markdown
 
@@ -12,6 +13,7 @@ A list of useful & intresting links.
 
 * CSS Grid
   * [CSS GRID visualisation](http://grid.malven.co/)
+* [Clip Path](https://bennettfeely.com/clippy/)
 
 ## Styling/design
 
