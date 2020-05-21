@@ -66,7 +66,10 @@ A list of useful & intresting links.
 
 * [Dev Tube](https://dev.tube/)
 
-
 ## Misc
 
 * [Code Wars](https://www.codewars.com/dashboard)
+* [Coding Game](https://www.codingame.com/)
+
+## Hosting
+* [Surge](https://surge.sh/)
