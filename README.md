@@ -14,6 +14,8 @@ A list of useful & intresting links.
 * CSS Grid
   * [CSS GRID visualisation](http://grid.malven.co/)
 * [Clip Path](https://bennettfeely.com/clippy/)
+* FlexBox
+  * [Flexbox playground](https://flexbox.tech/)
 
 ## Styling/design
 
