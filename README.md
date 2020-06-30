@@ -27,13 +27,18 @@ A list of useful & intresting links.
 
 * [CSS Range Sliders](https://freefrontend.com/css-range-sliders/)
 
-### Icons
+### Icons & Fonts
 
 * [CSS Icons](https://cssicon.space/)
+* [Google WebFont Helper](https://google-webfonts-helper.herokuapp.com/)
 
 ## Regex
 
 * [Regexr](https://regexr.com/)
+
+## Javascript
+
+* [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
 
 ## React
 
