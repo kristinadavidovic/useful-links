@@ -16,6 +16,8 @@ A list of useful & intresting links.
 * [Clip Path](https://bennettfeely.com/clippy/)
 * FlexBox
   * [Flexbox playground](https://flexbox.tech/)
+* [CSS clip-path maker](https://bennettfeely.com/clippy/)
+* [CSS Pie Chartgenerator](https://bennettfeely.com/csspiechart/)
 
 ## Styling/design
 
@@ -62,12 +64,16 @@ A list of useful & intresting links.
 ## REST API
 
 * [10 Intruguing Public REST APIs](https://dev.to/camerenisonfire/10-intriguing-public-rest-apis-for-your-next-project-2gbd?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+* [Giphy](https://developers.giphy.com/)
+* [Advice Slip API](https://api.adviceslip.com/)
+* [Trivia Questions](http://jservice.io/)
 
 ## Projects
 
 * [Web Development Projects that can help you get a job](https://dev.to/justaashir/web-development-projects-that-can-definitely-get-you-a-job-in-2019-2020-4c36?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 * [Javascript Projects](https://skillcrush.com/blog/projects-you-can-do-with-javascript/)
 * [VUEjs Todo App](https://www.youtube.com/watch?v=A5S23KS_-bU)
+* [DEV challenges](https://devchallenges.io/challenges)
 
 ## Videos
 
